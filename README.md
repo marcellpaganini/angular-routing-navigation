@@ -40,7 +40,7 @@
   * Create new Angular Service  
   ```bash
   ng generate service service-name
-  ```
+  ```  
 
 ### Topics practiced to get things done  
 ## Angular  
